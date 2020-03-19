@@ -1,2 +1,17 @@
 body {
-  background: pink; }
+  background: #c80a39; }
+
+.jumbotron {
+  background: white; }
+
+.nav {
+  color: #fecc54; }
+
+footer {
+  color: white;
+  text-align: center;
+  font-size: 150%; }
+
+.container {
+  background: white;
+  padding: 2em; }
